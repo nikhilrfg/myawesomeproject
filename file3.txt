@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bills update to file 3
+=======
+Sallys update to file 3
+>>>>>>> c226d000e8af2f68f52f4979f6ee0a2031374f38
