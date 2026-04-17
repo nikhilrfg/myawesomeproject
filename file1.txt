@@ -1,4 +1,6 @@
 This is the first line to myawesome project.
 
-addition to file 1
-addition to file 2
+updating file 1
+
+
+added to file 1
